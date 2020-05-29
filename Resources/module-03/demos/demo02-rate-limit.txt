@@ -1,0 +1,18 @@
+<!--
+    scope: api
+-->
+<policies>
+    <inbound>
+        <base />
+        <rate-limit-by-key calls="3" renewal-period="60" counter-key="@(context.Request.IpAddress)" increment-condition="@(context.Response.StatusCode == 200)" />
+    </inbound>
+    <backend>
+        <base />
+    </backend>
+    <outbound>
+        <base />
+    </outbound>
+    <on-error>
+        <base />
+    </on-error>
+</policies>

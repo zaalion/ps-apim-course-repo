@@ -1,0 +1,18 @@
+<!--
+    scope: API
+-->
+<policies>
+    <inbound>
+        <base />        
+    </inbound>
+    <backend>
+        <base />
+    </backend>
+    <outbound>
+        <base />
+        <json-to-xml apply="always" consider-accept-header="false" parse-date="true" />
+    </outbound>
+    <on-error>
+        <base />
+    </on-error>
+</policies>

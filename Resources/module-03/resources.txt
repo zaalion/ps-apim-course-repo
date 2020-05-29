@@ -1,0 +1,20 @@
+Resources for module 03:
+------------------------
+
+https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-policies
+https://docs.microsoft.com/en-us/azure/api-management/policy-samples
+https://docs.microsoft.com/en-us/azure/api-management/api-management-policies
+https://docs.microsoft.com/en-us/azure/api-management/api-management-advanced-policies
+https://docs.microsoft.com/en-us/azure/api-management/set-edit-policies
+https://docs.microsoft.com/en-us/azure/api-management/api-management-using-with-internal-vnet
+https://docs.microsoft.com/en-us/azure/api-management/api-management-error-handling-policies
+https://docs.microsoft.com/en-us/azure/api-management/transform-api
+https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-protect-backend-with-aad
+https://docs.microsoft.com/en-us/azure/api-management/api-management-sample-flexible-throttling
+https://docs.microsoft.com/en-us/azure/api-management/api-management-advanced-policies#choose
+https://docs.microsoft.com/en-us/azure/api-management/api-management-policy-expressions
+https://docs.microsoft.com/en-us/azure/api-management/api-management-transformation-policies#ConvertJSONtoXML
+https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-cache
+https://docs.microsoft.com/en-us/azure/api-management/api-management-caching-policies
+https://docs.microsoft.com/en-us/azure/api-management/api-management-access-restriction-policies
+https://docs.microsoft.com/lv-lv/azure/api-management/transform-api

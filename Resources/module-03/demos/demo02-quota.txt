@@ -1,0 +1,18 @@
+<!--
+    scope: Product
+-->
+<policies>
+    <inbound>
+        <base />
+        <quota calls="1000" bandwidth="100" renewal-period="3600" />
+    </inbound>
+    <backend>
+        <base />
+    </backend>
+    <outbound>
+        <base />
+    </outbound>
+    <on-error>
+        <base />
+    </on-error>
+</policies>

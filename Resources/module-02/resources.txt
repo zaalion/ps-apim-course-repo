@@ -1,0 +1,47 @@
+Resources for module 02:
+------------------------
+
+https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts 
+https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
+https://docs.microsoft.com/en-us/azure/api-management/get-started-create-service-instance
+https://docs.microsoft.com/en-us/azure/api-management/import-and-publish
+https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-add-products
+file:///C:/Users/Reza/Downloads/microsoft_azure_api_management_white_paper_20150520.pdf
+https://docs.microsoft.com/en-us/azure/api-management/
+https://docs.microsoft.com/en-us/azure/api-management/upgrade-and-scale
+https://docs.microsoft.com/en-us/azure/api-management/api-management-capacity
+https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-autoscale
+https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-deploy-multi-region
+https://docs.microsoft.com/en-us/azure/api-management/add-api-manually
+https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-aad
+https://docs.microsoft.com/en-us/azure/api-management/api-management-developer-portal-templates-reference
+https://docs.microsoft.com/en-us/azure/api-management/api-management-developer-portal-templates
+https://docs.microsoft.com/en-us/azure/api-management/automation-manage-api-management
+https://docs.microsoft.com/en-us/powershell/module/azurerm.apimanagement/?view=azurermps-6.10.0&viewFallbackFrom=azurermps-5.5.0#api_management/
+https://docs.microsoft.com/en-us/azure/api-management/mock-api-responses
+https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-create-groups
+https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-create-or-invite-developers
+
+Conference API Swagger
+======================
+http://conferenceapi.azurewebsites.net/?format=json
+
+Update01 - January 2020
+=======================
+
+Deploy an Azure API Management service instance to multiple Azure regions
+-------------------------------------------------------------------------
+https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-deploy-multi-region
+
+
+Use an external Azure Cache for Redis in Azure API Management
+-------------------------------------------------------------
+https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-cache-external
+
+
+APIM and Managed Identities (MSI)
+---------------------------------
+https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-use-managed-service-identity
+https://app.pluralsight.com/library/courses/microsoft-azure-applications-securing/table-of-contents
+
+

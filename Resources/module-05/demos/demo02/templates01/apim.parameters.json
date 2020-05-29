@@ -1,0 +1,66 @@
+{
+    "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "apimInstanceName": {
+            "value": "INSTANCE NAME"
+        },
+        "apimPublisherEmail": {
+            "value": "PUBLISHER EMAIL"
+        },
+        "apimSku": {
+            "value": "Developer"
+        },
+        "serviceFabricCertificateName": {
+            "value": "CERTIFICATE NAME IN AZURE"
+        },
+        "serviceFabricCertificate": {
+            "value": "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"
+        },
+        "certificatePassword": {
+            "value": ""
+        },
+        "serviceFabricCertificateThumbprint": {
+            "value": "D19671BFAD4FA31BA99D38D911AFCD062C66RFB9"
+        },
+        "url_path": {
+            "value": "/api/values"
+        },
+        "clusterHttpManagementEndpoint": {
+            "value": "https://apim-fabric-zaa-01.eastus.cloudapp.azure.com:19080"
+        },
+        "inbound_policy":{
+            "value": "<policies>\r\n  <inbound>\r\n    <base />\r\n    <set-backend-service backend-id=\"servicefabric\" sf-service-instance-name=\"fabric:/ApiApplication/WebApiService\" sf-resolve-condition=\"@((int)context.Response.StatusCode != 200)\" />\r\n  </inbound>\r\n  <backend>\r\n    <base />\r\n  </backend>\r\n  <outbound>\r\n    <base />\r\n  </outbound>\r\n  <on-error>\r\n    <base />\r\n  </on-error>\r\n</policies>"
+        },
+        "policies_policy_name": {
+            "value": "policy"
+        },
+        "apis_service_fabric_app_name": {
+            "value": "service-fabric-app"
+        },
+        "apim_service_fabric_product_name": {
+            "value": "service-fabric-api-product"
+        },
+        "service_fabric_backend_name": {
+            "value": "servicefabric"
+        },
+        "apis_service_fabric_app_name_operation": {
+            "value": "service-fabric-app-operation"
+        },
+        "vnetName": {
+            "value": "VNet-apim-fabric-zaa-01"
+        },
+        "subnetName": {
+            "value": "apim-subnet-02"
+        },
+        "vnetVersion": {
+            "value": "2017-03-01"
+        },
+        "networkSecurityGroupName": {
+            "value": "apim-vnet-security-02"
+        },
+        "networkSecurityGroupVersion": {
+            "value": "2017-03-01"
+        }
+    }
+}

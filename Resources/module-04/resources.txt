@@ -1,0 +1,11 @@
+Resources for module 04
+-----------------------
+
+https://docs.microsoft.com/en-us/azure/architecture/microservices/gateway 
+https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits#api-management-limits 
+https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-cache 
+https://docs.microsoft.com/en-us/azure/architecture/antipatterns/extraneous-fetching/index 
+https://docs.microsoft.com/en-us/azure/architecture/antipatterns/chatty-io/index 
+https://docs.microsoft.com/en-us/azure/api-management/api-management-sample-cache-by-key 
+https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-app-insights 
+https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-use-azure-monitor

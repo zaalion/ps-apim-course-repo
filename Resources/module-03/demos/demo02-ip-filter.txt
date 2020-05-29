@@ -1,0 +1,20 @@
+<!--
+    scope: api
+-->
+<policies>
+    <inbound>
+        <base />
+        <ip-filter action="forbid">
+            <address>206.223.161.20</address>
+        </ip-filter>
+    </inbound>
+    <backend>
+        <base />
+    </backend>
+    <outbound>
+        <base />
+    </outbound>
+    <on-error>
+        <base />
+    </on-error>
+</policies>

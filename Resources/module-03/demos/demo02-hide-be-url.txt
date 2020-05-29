@@ -1,0 +1,18 @@
+<!--
+    scope: api
+-->
+<policies>
+    <inbound>
+        <base />
+    </inbound>
+    <backend>
+        <base />
+    </backend>
+    <outbound>
+        <base />
+        <find-and-replace from="//conferenceapi.azurewebsites.net" to="//apim-demo-ps-02.azure-api.net" />
+    </outbound>
+    <on-error>
+        <base />
+    </on-error>
+</policies>

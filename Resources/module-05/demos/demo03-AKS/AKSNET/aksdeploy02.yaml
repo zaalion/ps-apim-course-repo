@@ -1,0 +1,31 @@
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: aksdemozaaliv16
+spec:
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: aksdemozaali-kub-app16
+    spec:
+      containers:
+        - name: aksdemozaali-services-app16
+          image: aksdemozaali.azurecr.io/aksnet:v15
+          ports:
+            - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+    name: aksdemozaali-kub-app16
+    annotations:
+      service.beta.kubernetes.io/azure-load-balancer-internal: "true"
+spec:
+  type: LoadBalancer
+  ports:
+    - name: http-port
+      port: 80
+      targetPort: 80
+  selector:
+    app: aksdemozaali-kub-app16
